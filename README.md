@@ -3,7 +3,36 @@
 <h3>Microsoft </h3>
 <h4>Day 1</h4>
 <ul>
-<li>Evaluate Reverse Polish Notation</li>
-<li>Combination Sum III</li>
-<li>Bulls and Cows</li>
+<li>Evaluate reverse polish notation</li>
+<li>Combination sum III</li>
+<li>Bulls and cows</li>
 </ul>
+
+<h4>Day 2</h4>
+<ul>
+<li>Rotate function</li>
+<li>Largest divisible subset</li>
+<li>Perfect rectangle</li>
+</ul>
+
+<h4>Day 3</h4>
+<ul>
+<li>Course schedule</li>
+<li>Most profitable path in a tree</li>
+<li>Number of pairs satisfying inequality</li>
+</ul>
+
+<h4>Day 4</h4>
+<ul>
+<li>Shortest unsorted conitnuous subarray</li>
+<li>Numebr of ways to arrive at destination</li>
+<liLongest happy prefix</li>
+</ul>
+
+<h4>Day 5</h4>
+<ul>
+<li>Airplane seat assignment probablity</li>
+<li>Minimum deletions to make array divisible/</li>
+<li>Number of substrings containing all three characters/</li>
+</ul>
+
