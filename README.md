@@ -26,7 +26,7 @@
 <ul>
 <li>Shortest unsorted conitnuous subarray</li>
 <li>Numebr of ways to arrive at destination</li>
-<liLongest happy prefix</li>
+<li>Longest happy prefix</li>
 </ul>
 
 <h4>Day 5</h4>
