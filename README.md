@@ -36,3 +36,17 @@
 <li>Number of substrings containing all three characters/</li>
 </ul>
 
+<h3>Goldman Sachs </h3>
+<h4>Day 1</h4>
+<ul>
+<li>Max Points on a line</li>
+<li>Valid Squares</li>
+<li>Factorial Trailing Zeroes</li>
+</ul>
+
+<h4>Day 2</h4>
+<ul>
+<li>Number of boomerangs</li>
+<li>Split array into consecutive subsequences</li>
+<li>Minimum consecutive cards to pick up</li>
+</ul>
