@@ -50,3 +50,15 @@
 <li>Split array into consecutive subsequences</li>
 <li>Minimum consecutive cards to pick up</li>
 </ul>
+<h4>Day 3</h4>
+<ul>
+<li>IPO</li>
+<li>Count good triplets in an array</li>
+<li>Maximum points in an archery competition</li>
+</ul>
+<h4>Day 4</h4>
+<ul>
+<li>Invalid Transactions</li>
+<li>All elements in two binary search trees</li>
+<li>Number of people aware of a secret</li>
+</ul>
