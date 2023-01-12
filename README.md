@@ -62,3 +62,9 @@
 <li>All elements in two binary search trees</li>
 <li>Number of people aware of a secret</li>
 </ul>
+<h4>Day 5</h4>
+<ul>
+<li>Count Nice Pairs in an Array</li>
+<li>Get Biggest Three Rhombus Sums in a Grid</li>
+<li>Maximum Good People Based on Statements</li>
+</ul>
