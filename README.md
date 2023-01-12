@@ -68,3 +68,12 @@
 <li>Get Biggest Three Rhombus Sums in a Grid</li>
 <li>Maximum Good People Based on Statements</li>
 </ul>
+<h3>Adobe </h3>
+<h4>Day 1</h4>
+<ul>
+<li>Fraction to Recurring Decimal
+</li>
+<li>Fraction to Recurring Decimal
+</li>
+<li>K-th Smallest in Lexicographical Order</li>
+</ul>
