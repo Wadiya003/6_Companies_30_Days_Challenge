@@ -77,3 +77,20 @@
 </li>
 <li>K-th Smallest in Lexicographical Order</li>
 </ul>
+<h4>Day 2</h4>
+<ul>
+<li>Magical String
+</li>
+<li>Non-negative Integers without Consecutive Ones
+</li>
+<li>Knight Probability in Chessboard</li>
+</ul>
+<h4>Day 3</h4>
+<ul>
+<li>Minimum Genetic Mutation
+</li>
+<li>Fraction to Recurring Decimal
+</li>
+<li>Count Nodes Equal to Average of Subtree
+</li>
+</ul>
