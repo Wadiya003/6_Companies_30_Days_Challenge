@@ -94,3 +94,12 @@
 <li>Count Nodes Equal to Average of Subtree
 </li>
 </ul>
+<h4>Day 4</h4>
+<ul>
+<li>Shortest Unsorted Continuous Subarray
+</li>
+<li>Maximum Matrix Sum
+</li>
+<li>Stock Price Fluctuation 
+</li>
+</ul>
