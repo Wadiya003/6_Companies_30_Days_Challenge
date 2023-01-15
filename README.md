@@ -103,3 +103,12 @@
 <li>Stock Price Fluctuation 
 </li>
 </ul>
+<h4>Day 5</h4>
+<ul>
+<li>Dungeon Game
+</li>
+<li>Number of People Aware of a Secret
+</li>
+<li>Query Kth Smallest Trimmed Number
+</li>
+</ul>
