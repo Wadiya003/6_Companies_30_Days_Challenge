@@ -112,3 +112,12 @@
 <li>Query Kth Smallest Trimmed Number
 </li>
 </ul>
+<h3>Flipkart </h3>
+<h4>Day 1</h4>
+<ul>
+<li>Partition to K Equal Sum Subsets
+</li>
+<li>Shopping Offers
+</li>
+<li>Remove Zero Sum Consecutive Nodes from Linked List</li>
+</ul>>
