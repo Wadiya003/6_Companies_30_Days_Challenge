@@ -121,3 +121,31 @@
 </li>
 <li>Remove Zero Sum Consecutive Nodes from Linked List</li>
 </ul>>
+<h4>Day 2</h4>
+<ul>
+<li>Find in Mountain Array
+</li>
+<li>Find the Winner of the Circular Game
+</li>
+<li>Number of Ways to Separate Numbers</li>
+</ul>>
+<h4>Day 3</h4>
+<ul>
+<li>Custom Sort String
+</li>
+<li>New 21 Game
+</li>
+<li>Max Area of Island
+</li>
+<li>Check If a String Contains All Binary Codes of Size K
+</li>
+<li>House Robber III</li>
+</ul>>
+<h4>Day 4</h4>
+<ul>
+<li>Top K Frequent Words
+</li>
+<li>Find the City With the Smallest Number of Neighbors at a Threshold Distance
+</li>
+<li>Closest Prime Numbers in Range</li>
+</ul>>
