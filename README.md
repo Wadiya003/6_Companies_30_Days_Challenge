@@ -120,7 +120,7 @@
 <li>Shopping Offers
 </li>
 <li>Remove Zero Sum Consecutive Nodes from Linked List</li>
-</ul>>
+</ul>
 <h4>Day 2</h4>
 <ul>
 <li>Find in Mountain Array
@@ -128,7 +128,7 @@
 <li>Find the Winner of the Circular Game
 </li>
 <li>Number of Ways to Separate Numbers</li>
-</ul>>
+</ul>
 <h4>Day 3</h4>
 <ul>
 <li>Custom Sort String
@@ -140,7 +140,7 @@
 <li>Check If a String Contains All Binary Codes of Size K
 </li>
 <li>House Robber III</li>
-</ul>>
+</ul>
 <h4>Day 4</h4>
 <ul>
 <li>Top K Frequent Words
@@ -148,4 +148,12 @@
 <li>Find the City With the Smallest Number of Neighbors at a Threshold Distance
 </li>
 <li>Closest Prime Numbers in Range</li>
-</ul>>
+</ul>
+<h4>Day 5</h4>
+<ul>
+<li>Max Area of Island
+</li>
+<li>Custom Sort String
+</li>
+<li>House Robber III</li>
+</ul>
