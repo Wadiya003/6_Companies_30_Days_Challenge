@@ -157,3 +157,12 @@
 </li>
 <li>House Robber III</li>
 </ul>
+<h3>Google </h3>
+<h4>Day 1</h4>
+<ul>
+<li>Maximum Consecutive Floors Without Special Floors
+</li>
+<li>Maximum Good People Based on Statements
+</li>
+<li>Sort an array</li>
+</ul>

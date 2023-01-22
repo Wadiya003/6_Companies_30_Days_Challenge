@@ -8,7 +8,7 @@ public:
                 for(int j=0; j<n; j++){
                     if(statements[i][j] != 2 && statements[i][j] != cur[j] - '0') return false;
                 }
-           a }
+            }
         }
         return true;
     }
