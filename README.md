@@ -166,3 +166,19 @@
 </li>
 <li>Sort an array</li>
 </ul>
+<h4>Day 2</h4>
+<ul>
+<li>Fruit Into Baskets
+</li>
+<li>Number of Closed Islands
+</li>
+<li>Distinct Echo Substrings</li>
+</ul>
+<h4>Day 3</h4>
+<ul>
+<li>K Divisible Elements Subarrays
+</li>
+<li>Maximum Number of Coins You Can Get
+</li>
+<li>Random Pick with Weight</li>
+</ul>
