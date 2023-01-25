@@ -182,3 +182,12 @@
 </li>
 <li>Random Pick with Weight</li>
 </ul>
+<h4>Day 4</h4>
+<ul>
+<li>Matrix Block Sum
+</li>
+<li>Restore IP Addresses
+</li>
+<li>Network Delay Time
+</li>
+</ul>
