@@ -191,3 +191,12 @@
 <li>Network Delay Time
 </li>
 </ul>
+<h4>Day 5</h4>
+<ul>
+<li>Swim in Rising Water
+</li>
+<li>Maximum Compatibility Score Sum
+</li>
+<li>Strictly Palindromic Number
+</li>
+</ul>
