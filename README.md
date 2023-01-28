@@ -200,3 +200,12 @@
 <li>Strictly Palindromic Number
 </li>
 </ul>
+<h3>Amazon </h3>
+<h4>Day 1</h4>
+<ul>
+<li>Shuffle an Array
+</li>
+<li>Cheapest Flights Within K Stops
+</li>
+<li>Split a String Into the Max Number of Unique Substrings</li>
+</ul>
