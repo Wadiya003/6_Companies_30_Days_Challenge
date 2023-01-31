@@ -209,3 +209,35 @@
 </li>
 <li>Split a String Into the Max Number of Unique Substrings</li>
 </ul>
+<h4>Day 2</h4>
+<ul>
+<li>Tweet Counts Per Frequency
+</li>
+<li>Maximum Subarray Min-Product
+</li>
+<li>Maximum Sum of an Hourglass</li>
+</ul>
+<h4>Day 3</h4>
+<ul>
+<li>Dota2 Senate
+</li>
+<li>Destroying Asteroids
+</li>
+<li>Most Popular Video Creator</li>
+</ul>
+<h4>Day 4</h4>
+<ul>
+<li>Number of Matching Subsequences
+</li>
+<li>Maximum Length of Repeated Subarray
+</li>
+<li>Number of Ways to Reach a Position After Exactly k Steps</li>
+</ul>
+<h4>Day 5</h4>
+<ul>
+<li>Top K Frequent Words
+</li>
+<li>Last Moment Before All Ants Fall Out of a Plank
+</li>
+<li>Generate Random Point in a Circle</li>
+</ul>
